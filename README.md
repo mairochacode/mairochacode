@@ -125,3 +125,8 @@ Olá, me chamo Mairan, natural de Santa Catarina, apaixonada por tecnologia e de
   />
 
 </p>
+
+![Snake animation](https://github.com/mairochacode/mairochacode/blob/output/snake.svg)
+
+
+
